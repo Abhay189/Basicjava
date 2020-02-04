@@ -29,7 +29,7 @@ public class BasicJava2 {
 					}
 				}
 			}
-			// yo 
+			// ola 
 			return counter;				
 		}
 		public static int addHexDigits(int num) {
